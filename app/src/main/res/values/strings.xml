@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoApp</string>
+    <string name="hello_world">Hello worldd</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_edit">Edit Activity</string>
+    <string name="text_save">Save</string>
+    <string name="lbl_edit_item">Edit Item</string>
+    <string name="hint_new_item">Enter a New Item</string>
+    <string name="txt_add_item">Add New Item</string>
+
+
+</resources>
